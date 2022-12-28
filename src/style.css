@@ -1,0 +1,8 @@
+h1, p {
+  font-family: Lato;
+}
+
+.main{
+  background-color: rgba(150, 247, 247, 0.625);
+  border-radius: 10px;
+}
